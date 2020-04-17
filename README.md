@@ -2,16 +2,16 @@
 NodeJS backend for bront-chat
 
 ## Tech
-Node.js - evented I/O for the backend
-Express - fast node.js network app framework
-Mongoose - elegant mongodb object modeling for node.js
-JWT Auth - JsonWebToken implementation for node.js
-Sengrid - Allows to quickly and easily send emails through SendGrid using nodejs.
-apiDoc - Inline Documentation for RESTful web APIs
-Mocha - simple, flexible, fun javascript test framework for node.js
+Node.js - evented I/O for the backend  
+Express - fast node.js network app framework  
+Mongoose - elegant mongodb object modeling for node.js  
+JWT Auth - JsonWebToken implementation for node.js  
+Sengrid - Allows to quickly and easily send emails through SendGrid using nodejs.  
+apiDoc - Inline Documentation for RESTful web APIs  
+Mocha - simple, flexible, fun javascript test framework for node.js  
 
 ## Getting started
-### Install MongoDB
+### Setup MongoDB on your local machine
 Install [MongoDB](https://www.mongodb.com/download-center/community)
 
 Start MongoDB server:
