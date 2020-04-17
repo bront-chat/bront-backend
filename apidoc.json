@@ -1,0 +1,6 @@
+{
+    "name": "bront-backend",
+    "version": "0.0.1",
+    "description": "NosejS backend for bront-chat",
+    "url" : "localhost:3000"
+}
